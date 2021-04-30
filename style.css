@@ -609,7 +609,7 @@ html {
     }
 }
 
-@media (max-width: 670px){
+@media (max-width: 1000px){
     #title {
         font-size: 25px;
         text-align: left;
